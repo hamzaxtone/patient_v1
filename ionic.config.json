@@ -1,5 +1,9 @@
 {
   "name": "patient_v1",
-  "integrations": {},
-  "type": "ionic-angular"
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "ionic-angular",
+  "id": "acdf30ae"
 }
